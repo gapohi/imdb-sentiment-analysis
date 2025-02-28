@@ -28,14 +28,14 @@ Here’s an overview of the project directory structure:
 ```plaintext
 imdb-sentiment-analysis/
 ├── src/
-│   ├── preprocess.py    							# Module for loading and preprocessing IMDB dataset
-│   ├── models.py        							# Module for building RNN models
-│   └── main.py          							# Main entry point for running the project and train the choosen model
-├── .gitignore           							# For ignoring unnecessary files
-├── LICENSE              							# MIT License
-├── README.md            							# Project overview and setup instructions
-├── requirements         							# List of python dependencies required for the project
-├── statistics_bachelor_thesis_gph_2023_07_21.pdf	# Full Bachelor's thesis document, detailing the research, methodology and results (in catalan)
+│   ├── preprocess.py  # Module for loading and preprocessing IMDB dataset
+│   ├── models.py  # Module for building RNN models
+│   └── main.py  # Main entry point for running the project and train the choosen model
+├── .gitignore  # For ignoring unnecessary files
+├── LICENSE  # MIT License
+├── README.md  # Project overview and setup instructions
+├── requirements  # List of python dependencies required for the project
+├── statistics_bachelor_thesis_gph_2023_07_21.pdf  # Full Bachelor's thesis document, detailing the research, methodology and results (in catalan)
 ```
 
 ## Requirements

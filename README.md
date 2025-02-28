@@ -15,6 +15,10 @@ classification. The dataset is preprocessed for balanced positive (≥7/10) and 
 and test sets containing disjoint movies to prevent model bias. The implementation is done in Python using NumPy for 
 data processing and TensorFlow Keras for model development and evaluation.
 
+## Sample Movie Reviews
+
+![image](https://github.com/user-attachments/assets/a34f47bc-53df-4249-8778-fe366dc44a30)
+
 ## Main Tools
 
 - `Python` (Main programming language for the application) -- 3.11.5

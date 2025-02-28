@@ -73,7 +73,7 @@ cd src
 python main.py
 ```
 
-### Model results
+## Model Results
 
 | Model                | Parameters | Accuracy |
 |----------------------|------------|----------|
